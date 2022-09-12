@@ -41,7 +41,7 @@ public class TelaDetalhesReceita implements ActionListener, ListSelectionListene
 			JLabel dosagem = new JLabel("Dosagem receitada:");
 			valorDosagem = new JTextField();
 			JLabel dosesDia = new JLabel("Tomar            vezes ao dia");
-			JLabel medico = new JLabel("Médico receitou: ");
+			JLabel medico = new JLabel("Medico receitou: ");
 			valorMedico = new JComboBox<Object>(new ControleMedico(d).getListaMedicos());
 			valorNome = new JComboBox<Object>(new ControleMedicamento(d).getListaMedicamentos());
 			valorNome.addActionListener(this);
