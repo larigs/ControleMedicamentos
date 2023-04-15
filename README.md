@@ -1,6 +1,6 @@
 # Brasfoot - Grupo 3
 
-div align="center"
+<div align="center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.1-Brasfoot/blob/main/Docs/img/logo_brasfoot.jpg" alt="logo_brasfoot" style="width: 300px">
 </div>
 
