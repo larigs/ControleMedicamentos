@@ -16,8 +16,8 @@
 | 7. Criação do GitPage | 17/04 | 21/04 | Larissa Gomes | Lucas Gobbi |
 | 8. Gravação da apresentação | ** | ** | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 9. Edição da apresentação | ** | ** | %% | %% |
-<div style="text-align: center">
-<p> Tabela 1: Equipe de trabalho (Fonte: Mizael Santos, 2023).</p>
+<div>
+<p style="text-align: center"> Tabela 1: Equipe de trabalho (Fonte: Mizael Santos, 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 5
