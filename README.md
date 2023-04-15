@@ -61,6 +61,6 @@
 | 6. Atualizar GitPage | 17/06 | 18/06 | Larissa Gomes | Lucas Gobbi |
 | 7. Gravação da apresentação | 18/06 | 18/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 8. Edição da apresentação | 18/06 | 19/06 | %% | Rafael Bosi |
-<div align:"center">
-    <p> Tabela 6: Ponto de Controle 6.1 (Fonte: Larissa Gomes, 2023).</p>
+<div >
+    <p align:"center"> Tabela 6: Ponto de Controle 6.1 (Fonte: Larissa Gomes, 2023).</p>
 </div>
